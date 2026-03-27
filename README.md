@@ -7,3 +7,6 @@
 5. Change "txt" to html
 6. Click on file
 7. Have fun😁
+
+
+# I did not make the files of the games I just composed them into a repository.
