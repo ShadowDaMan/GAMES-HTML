@@ -3,4 +3,7 @@
 1. Select game
 2. Click "download raw file"
 3. Click on file
-4. Have fun😁
+4. Click Crt-s for chromebook or right click "save file as"
+5. Change "txt" to html
+6. Click on file
+7. Have fun😁
